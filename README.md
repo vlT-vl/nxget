@@ -1,2 +1,2 @@
 # nxget
-vlT - nxget official reository
+vlT - nxget official repository
