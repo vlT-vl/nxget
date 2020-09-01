@@ -1,4 +1,5 @@
-Id: 7zip.nex
+# 7zip Manifest
+Id: 7zip
 Version: 19.00
 Name: 7zip
 Publisher: 7zip
@@ -12,6 +13,5 @@ Installers:
     Url: https://www.7-zip.org/a/7z1900-x64.exe
     Sha256: 0F5D4DBBE5E55B7AA31B91E5925ED901FDF46A367491D81381846F05AD54C45E
     InstallerType: exe
-    Switches:
-      Silent: /S
+    Silent: /S
 
