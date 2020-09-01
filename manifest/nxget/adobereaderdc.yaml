@@ -1,0 +1,11 @@
+Id: adobereaderdc.nex
+Version: 19.008.20071
+Tags: readerdc
+Description: Adobe Reader DC è un'applicazione per poter visualizzare e appuntare su file in formato PDF. Adobe è la società che ha sviluppato il PDF, ed ha quindi sviluppato il primo programma in grado di lavorare su questo formato.
+Homepage: https://www.adobe.com/
+Installers:
+  - Arch: neutral
+    Url: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
+    Sha256: 9CE13CB9C4B61F6DC6165EE37E06409E919D29DD524486939CE8AD34D2C77542
+    InstallerType: exe
+    Silent: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
