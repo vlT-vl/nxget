@@ -1,10 +1,6 @@
 # 7zip Manifest
 Id: 7zip
 Version: 19.00
-Name: 7zip
-Publisher: 7zip
-License: MIT
-AppMoniker: 7zip
 Tags: zip
 Description: 7-Zip software open source per la creazione e gestione di file compressi supporta diversi  algoritmi di compressione e filtri di cifratura. Il nucleo della compressione dei file .7z usa vari algoritmi, i più comuni sono bzip2, LZMA2 e LZMA
 Homepage: https://www.7-zip.org/
