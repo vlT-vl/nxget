@@ -2,7 +2,6 @@
 Id: 7zip
 Version: 19.00
 Tags: zip
-Repository: nxget
 Description: 7-Zip software open source per la creazione e gestione di file compressi supporta diversi  algoritmi di compressione e filtri di cifratura. Il nucleo della compressione dei file .7z usa vari algoritmi, i più comuni sono bzip2, LZMA2 e LZMA
 Homepage: https://www.7-zip.org/
 Installers:
