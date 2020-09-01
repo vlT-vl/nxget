@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
+#  ultimoupdate: 01/09/2020 ore 17:09
 #
-- ultimoupdate: 01/09/2020 ore 17:09
 - id: 7zip
   versione: 19.00
   repository: nxget
