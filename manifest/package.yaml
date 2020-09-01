@@ -1,0 +1,14 @@
+---
+# package.yaml
+#  >> Index dei pacchetti nxget
+#
+# ultimo update dei pacchetti: 01/09/2020
+#
+- id: 7zip
+  versione: 19.00
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
+- id: Adobe Reader DC
+  versione: 19.008.20071
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/adobereaderdc.yaml
