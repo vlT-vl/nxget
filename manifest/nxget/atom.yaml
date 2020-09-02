@@ -1,0 +1,12 @@
+# Atom Manifest
+Id: atom.nex
+Version: 1.50.0
+Tags: code
+Description: Atom è un editor di testo e IDE open source e sviluppato da GitHub, rilasciato nel 2014. Esso è basato su Chromium ed è scritto in CoffeeScript, il che gli permette di essere eseguito su qualsiasi piattaforma supportata da Chromium
+Homepage: https://atom.io/
+Installers:
+  - Arch: x64
+    Url: https://atom.io/download/windows_x64
+    Sha256: 152198ADAE7DBD46FF292F57FA20064F8E3FBF7E26E5E652AF5D11AEB53C605A
+    InstallerType: exe
+    Silent: --silent
