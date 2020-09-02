@@ -4,10 +4,12 @@
 #  ultimoupdate: 01/09/2020 ore 17:09
 #
 - id: 7zip
-  versione: 19.00 
+  pkgid: 7ZIP1900NXG
+  versione: 19.00.
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - id: Adobe Reader DC
-  versione: 19.008.20071
+  pkgid: ADBRDRDC19008NXG
+  versione: 19.008.20071.
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/adobereaderdc.yaml
