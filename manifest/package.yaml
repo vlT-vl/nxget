@@ -8,7 +8,7 @@
   versione: v19.00
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
-- id: Adobe Reader DC
+- id: AdobeReaderDC
   pkgid: ADBRDRDC19008NXG
   versione: v19.008.20071
   repository: nxget
