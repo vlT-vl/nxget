@@ -3,12 +3,14 @@
 #  >> Index dei pacchetti nxget
 #  ultimoupdate: 02/09/2020 ore 11:41
 #
-- id: 7zip
+- nome: 7zip
+  idx: -1
   pkgid: 7ZIP1900NXG
   versione: v19.00
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
-- id: AdobeReaderDC
+- nome: AdobeReaderDC
+  idx: -2
   pkgid: ADBRDRDC19008NXG
   versione: v19.008.20071
   repository: nxget
