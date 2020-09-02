@@ -5,19 +5,19 @@
 #
 - nome: 7zip
   id: 7zip
-  idx: .nxg1
+  pkgid: .nxg1
   versione: v19.00
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - nome: Adobe Reader DC
   id: adobereaderdc
-  idx: .nxg2
+  pkgid: .nxg2
   versione: v19.008.20071
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/adobereaderdc.yaml
 - nome: Atom
   id: atom
-  idx: .nxg3
+  pkgid: .nxg3
   versione: v1.50.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
