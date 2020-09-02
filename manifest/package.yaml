@@ -1,17 +1,23 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  ultimoupdate: 02/09/2020 ore 11:41
+#  ultimoupdate: 02/09/2020 ore 12:34
 #
 - nome: 7zip
-  idx: .pkg1
-  pkgid: 7ZIP1900NXG
+  id: 7zip
+  idx: .nxg1
   versione: v19.00
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
-- nome: AdobeReaderDC
-  idx: .pkg2
-  pkgid: ADBRDRDC19008NXG
+- nome: Adobe Reader DC
+  id: adobereaderdc
+  idx: .nxg2
   versione: v19.008.20071
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/adobereaderdc.yaml
+- nome: Atom
+  id: atom
+  idx: .nxg3
+  versione: v1.50.0
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
