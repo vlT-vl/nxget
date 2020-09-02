@@ -4,7 +4,7 @@
 #  ultimoupdate: 02/09/2020 ore 11:41
 #
 - nome: 7zip
-  idx: .1
+  idx: .pkg1
   pkgid: 7ZIP1900NXG
   versione: v19.00
   repository: nxget
