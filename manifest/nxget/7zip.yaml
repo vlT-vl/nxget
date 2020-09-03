@@ -7,6 +7,6 @@ Homepage: https://www.7-zip.org/
 Installers:
   - Arch: x64
     Url: https://www.7-zip.org/a/7z1900-x64.exe
-    Sha256: 0F5D4DBBE5E55B7AA31B91E5925ED901FDF46A367491D81381846F05AD54C45E
+    MD5: D7B20F933BE6CDAE41EFBE75548EBA5F
     InstallerType: exe
     Silent: /S
