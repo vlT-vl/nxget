@@ -52,7 +52,7 @@
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
-  id: notepad++
+  id: notepadpp
   pkgidx: .p9
   versione: v7.8.9
   repository: nxget
