@@ -7,6 +7,6 @@ Homepage: https://www.expandrive.com/
 Installers:
   - Arch: x64
     Url: https://packages.expandrive.com/msi/7.5.0/ExpanDriveInstaller64.msi
-    Sha256: 49B9BFB24D6F0C422AC243D6E172F11D4A4F40FE0F26D5D7AAFAF975D3BEA6E1
+    MD5: CD7BDE4626E2C5B38DFA68A1B99A46A3
     InstallerType: msi
     Silent: /quiet /norestart
