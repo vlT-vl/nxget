@@ -56,7 +56,7 @@
   pkgidx: .p9
   versione: v7.8.9
   repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepad++.yaml
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Skype
   id: skype
   pkgidx: .p10
