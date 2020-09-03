@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  ultimoupdate: 02/09/2020 ore 12:34
+#  ultimoupdate: 03/09/2020 ore 15:34
 #
 - nome: 7zip
   id: 7zip
@@ -21,3 +21,9 @@
   versione: v1.50.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
+- nome: Dashlane
+  id: dashlane
+  pkgidx: .p4
+  versione: v6.2033.0.38021
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/dashlane.yaml
