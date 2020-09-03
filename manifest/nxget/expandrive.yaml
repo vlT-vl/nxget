@@ -1,6 +1,6 @@
 # Expandrive Manifest
 Id: Expandrive
-Version: 7.5.0
+Version: v7.5.0
 Tags: cloud
 Description: ExpanDrive è un client DFS per Mac OS X, Microsoft Windows e Linux che facilita la mappatura del volume locale su molti diversi tipi di cloud storage. Quando un cloud è montato con ExpanDrive qualsiasi programma può leggere, scrivere e gestire file remoti (ovvero file che esistono solo sul cloud) come se fossero archiviati localmente.
 Homepage: https://www.expandrive.com/
