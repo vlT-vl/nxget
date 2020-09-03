@@ -30,7 +30,7 @@
 - nome: Edge
   id: edge
   pkgidx: .p5
-  versione: LTS
+  versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/edge.yaml
 - nome: Expandrive
@@ -42,7 +42,7 @@
 - nome: Google Chrome
   id: chrome
   pkgidx: .p7
-  versione: LTS
+  versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
 - nome: Node js
