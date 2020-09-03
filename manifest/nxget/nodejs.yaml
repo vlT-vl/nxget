@@ -1,12 +1,12 @@
 # Nodejs Manifest
 Id: NodeJS
-Version: 14.8.0
+Version: 14.9.0
 Tags: nodejs
 Description: Node.js è una runtime di JavaScript Open source multipiattaforma orientato agli eventi per l'esecuzione di codice JavaScript, costruita sul motore JavaScript V8 di Google Chrome. Molti dei suoi moduli base sono scritti in JavaScript, e gli sviluppatori possono scrivere nuovi moduli in JavaScript.
 Homepage: https://nodejs.org/it/
 Installers:
   - Arch: x64
-    Url: https://nodejs.org/dist/v14.8.0/node-v14.8.0-x64.msi
-    Sha256: 2C7E2D179F2E5D91FADCB8ADBC93C33B2B8C0401C7C2097AB8F63734CAA6F99A
+    Url: https://nodejs.org/dist/v14.9.0/node-v14.9.0-x64.msi
+    MD5: F99A14520760AF5A42D05B00047338F5
     InstallerType: msi
     Silent: /quiet
