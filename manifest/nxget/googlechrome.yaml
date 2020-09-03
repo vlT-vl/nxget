@@ -1,0 +1,12 @@
+# GoogleChrome Manifest
+Id: GoogleChrome
+Version: LTS
+Tags: browser
+Description: Google Chrome, detto anche semplicemente Chrome, è un browser web sviluppato da Google, basato sul motore di rendering Blink (a partire dalla versione 28, precedentemente sfruttava WebKit). Basato sul browser Chromium, Chrome, nel corso degli anni, è cresciuto a tal punto da diventare il browser più usato al mondo
+Homepage: https://www.google.com/intl/it_it/chrome/
+Installers:
+  - Arch: x64
+    Url: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
+    Sha256: 6B589AA475D29CD42A93EFFB901C67179340B822D49D4B68FE8394168FD5CB82
+    InstallerType: msi
+    Silent: /quiet
