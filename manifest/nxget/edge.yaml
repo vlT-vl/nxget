@@ -1,0 +1,10 @@
+Id: Edge
+Version: LTS
+Tags: browser
+Description: La nuova veriosne del Browser di Microsoft, basata su Chromium
+Homepage: https://www.microsoft.com/it-it/edge
+Installers:
+  - Arch: neutral
+    Url: https://go.microsoft.com/fwlink/?linkid=2108834&Channel=Stable&language=it
+    Sha256: 179D1EEEEBB0A34F99536A7282AAFFA33DD489B513C3D8E82DCA04ED493C2235
+    InstallerType: exe
