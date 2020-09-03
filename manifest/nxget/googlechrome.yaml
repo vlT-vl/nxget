@@ -7,6 +7,6 @@ Homepage: https://www.google.com/intl/it_it/chrome/
 Installers:
   - Arch: x64
     Url: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
-    Sha256: 6B589AA475D29CD42A93EFFB901C67179340B822D49D4B68FE8394168FD5CB82
+    MD5: 256FF6AF1258A0E7A782CBB75B810B29
     InstallerType: msi
     Silent: /quiet
