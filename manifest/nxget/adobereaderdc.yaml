@@ -7,6 +7,6 @@ Homepage: https://www.adobe.com/
 Installers:
   - Arch: neutral
     Url: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
-    Sha256: 9CE13CB9C4B61F6DC6165EE37E06409E919D29DD524486939CE8AD34D2C77542
+    MD5: F02C210CCF023B7A29D938FBA0BDE0D2
     InstallerType: exe
     Silent: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
