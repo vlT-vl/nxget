@@ -7,6 +7,6 @@ Homepage: https://atom.io/
 Installers:
   - Arch: x64
     Url: https://atom.io/download/windows_x64
-    Sha256: 152198ADAE7DBD46FF292F57FA20064F8E3FBF7E26E5E652AF5D11AEB53C605A
+    MD5: C454B5405D21391638E6F88D28FD9096
     InstallerType: exe
     Silent: --silent
