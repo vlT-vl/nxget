@@ -27,3 +27,27 @@
   versione: v6.2033.0.38021
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/dashlane.yaml
+- nome: Edge
+  id: edge
+  pkgidx: .p5
+  versione: LTS
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/edge.yaml
+- nome: Expandrive
+  id: expandrive
+  pkgidx: .p6
+  versione: v7.5.0
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
+- nome: Google Chrome
+  id: chrome
+  pkgidx: .p7
+  versione: LTS
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
+- nome: Node js
+  id: nodejs
+  pkgidx: .p8
+  versione: v14.9.0
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
