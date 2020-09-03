@@ -1,6 +1,6 @@
 # Atom Manifest
 Id: Atom
-Version: 1.50.0
+Version: v1.50.0
 Tags: code
 Description: Atom è un editor di testo e IDE open source e sviluppato da GitHub, rilasciato nel 2014. Esso è basato su Chromium ed è scritto in CoffeeScript, il che gli permette di essere eseguito su qualsiasi piattaforma supportata da Chromium
 Homepage: https://atom.io/
