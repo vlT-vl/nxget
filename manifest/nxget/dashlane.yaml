@@ -1,0 +1,11 @@
+Id: Dashlane
+Version: 6.2033.0.38021
+Tags: password
+Description: Dashlane è un gestore di password premium multipiattaforma e un'applicazione di portafoglio digitale disponibile su macOS, Windows, iOS e Android
+Homepage: https://www.dashlane.com/it
+Installers:
+  - Arch: neutral
+    Url: https://d3qm0vl2sdkrc.cloudfront.net/releases/6.2033.0/6.2033.0.38021/release/DashlaneInst.exe
+    Sha256: 3D4A26C8000EC042AB67986DC13EEC1E7E69B10F61C125DEDDB7EEAD0C97E84A
+    InstallerType: exe
+    Silent: /S
