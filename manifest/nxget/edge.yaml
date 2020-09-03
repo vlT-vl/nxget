@@ -1,6 +1,6 @@
 # Edge Manifest
 Id: Edge
-Version: LTS
+Version: Latest
 Tags: browser
 Description: La nuova veriosne del Browser di Microsoft, basata su Chromium
 Homepage: https://www.microsoft.com/it-it/edge
