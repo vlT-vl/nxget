@@ -9,4 +9,4 @@ Installers:
     Url: https://d3qm0vl2sdkrc.cloudfront.net/releases/6.2033.0/6.2033.0.38021/release/DashlaneInst.exe
     MD5: 923DB1A00FABDAA90578108D3163C9B1
     InstallerType: exe
-    Silent: /S
+    Arguments: /S
