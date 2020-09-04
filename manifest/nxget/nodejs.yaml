@@ -9,4 +9,4 @@ Installers:
     Url: https://nodejs.org/dist/v14.9.0/node-v14.9.0-x64.msi
     MD5: F99A14520760AF5A42D05B00047338F5
     InstallerType: msi
-    Silent: /quiet
+    Arguments: /quiet
