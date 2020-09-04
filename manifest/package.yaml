@@ -45,27 +45,33 @@
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
+- nome: Lenovo System Update
+  id: lenovosystemupdate
+  pkgidx: .p8
+  versione: v5.07.0106
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node js
   id: nodejs
-  pkgidx: .p8
+  pkgidx: .p9
   versione: v14.9.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
   id: notepadpp
-  pkgidx: .p9
+  pkgidx: .p10
   versione: v7.8.9
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Skype
   id: skype
-  pkgidx: .p10
+  pkgidx: .p11
   versione: v8.63.0.76
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: WhatsApp
   id: whatsapp
-  pkgidx: .p11
+  pkgidx: .p12
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
