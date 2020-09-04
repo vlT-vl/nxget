@@ -9,4 +9,4 @@ Installers:
     Url: https://packages.expandrive.com/msi/7.5.0/ExpanDriveInstaller64.msi
     MD5: CD7BDE4626E2C5B38DFA68A1B99A46A3
     InstallerType: msi
-    Silent: /quiet /norestart
+    Arguments: /quiet /norestart
