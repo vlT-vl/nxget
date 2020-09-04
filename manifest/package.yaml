@@ -5,55 +5,55 @@
 #
 - nome: 7zip
   id: 7zip
-  pkgidx: .p1
+  pkgidx: .p01
   versione: v19.00
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - nome: Adobe Reader DC
   id: adobereaderdc
-  pkgidx: .p2
+  pkgidx: .p02
   versione: v19.008.20071
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/adobereaderdc.yaml
 - nome: Atom
   id: atom
-  pkgidx: .p3
+  pkgidx: .p03
   versione: v1.50.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
 - nome: Dashlane
   id: dashlane
-  pkgidx: .p4
+  pkgidx: .p04
   versione: v6.2033.0.38021
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/dashlane.yaml
 - nome: Edge
   id: edge
-  pkgidx: .p5
+  pkgidx: .p05
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/edge.yaml
 - nome: Expandrive
   id: expandrive
-  pkgidx: .p6
+  pkgidx: .p06
   versione: v7.5.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
 - nome: Google Chrome
   id: chrome
-  pkgidx: .p7
+  pkgidx: .p07
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
 - nome: Lenovo System Update
   id: lenovosystemupdate
-  pkgidx: .p8
+  pkgidx: .p08
   versione: v5.07.0106
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node js
   id: nodejs
-  pkgidx: .p9
+  pkgidx: .p09
   versione: v14.9.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
