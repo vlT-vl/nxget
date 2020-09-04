@@ -5,7 +5,7 @@ Tags: chat
 Description: WhatsApp (formalmente WhatsApp Messenger) è un'applicazione di messaggistica istantanea, questa è la sua versione desktop per Windows.
 Homepage: https://www.whatsapp.com/
 Installers:
-  - Arch: Neutral
+  - Arch: x64
     Url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
     MD5: 91C7D60881A880983BE31EE2C19B28C2
     InstallerType: exe
