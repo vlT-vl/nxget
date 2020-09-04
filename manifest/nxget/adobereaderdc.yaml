@@ -9,4 +9,4 @@ Installers:
     Url: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
     MD5: F02C210CCF023B7A29D938FBA0BDE0D2
     InstallerType: exe
-    Silent: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
+    Arguments: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
