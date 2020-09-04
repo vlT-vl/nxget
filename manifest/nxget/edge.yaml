@@ -9,3 +9,4 @@ Installers:
     Url: https://go.microsoft.com/fwlink/?linkid=2108834&Channel=Stable&language=it
     MD5: 124C0715F2C60DD183739604860C5F2C
     InstallerType: exe
+    Arguments:
