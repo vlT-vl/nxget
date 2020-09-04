@@ -9,4 +9,4 @@ Installers:
     Url: https://atom.io/download/windows_x64
     MD5: C454B5405D21391638E6F88D28FD9096
     InstallerType: exe
-    Silent: --silent
+    Arguments: --silent
