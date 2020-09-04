@@ -9,4 +9,4 @@ Installers:
     Url: https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0106.exe
     MD5: BC7918C56865006365D2CE6F3F96F4B6
     InstallerType: exe
-    Silent: /VERYSILENT
+    Arguments: /VERYSILENT
