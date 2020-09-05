@@ -7,7 +7,6 @@
   id: 7zip
   idx: .p01
   versione: v19.00
-  tags: zip
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - nome: Adobe Reader DC
