@@ -1,12 +1,11 @@
-# LenovoSystemUpdate Manifest
-Id: LenovoSystemUpdate
-Version: v5.07.0106
-Tags: driver
-Description: Lenovo System Update, uno strumento di Windows che ti consente di cercare firmware, driver e software Lenovo aggiornati per la tua macchina Lenovo.
-Homepage: https://support.lenovo.com/it/it/downloads/ds012808
-Installers:
-  - Arch: neutral
-    Url: https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0106.exe
+id: lenovosystemupdate
+idx: .p08
+versione: v5.07.0106
+descrizione: Lenovo System Update, uno strumento di Windows che ti consente di cercare firmware, driver e software Lenovo aggiornati per la tua macchina Lenovo.
+homepage: https://support.lenovo.com/it/it/downloads/ds012808
+installer:
+  - arch: neutral
+    url: https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0106.exe
+    installertype: exe
+    arguments: /VERYSILENT
     MD5: BC7918C56865006365D2CE6F3F96F4B6
-    InstallerType: exe
-    Arguments: /VERYSILENT
