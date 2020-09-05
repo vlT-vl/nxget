@@ -4,7 +4,7 @@ versione: v8.63.0.76
 descrizione: Skype è un software proprietario freeware di messaggistica istantanea e VoIP. Esso unisce caratteristiche presenti nei client più comuni (chat, salvataggio delle conversazioni, trasferimento di file) a un sistema di telefonate basato su un network Peer-to-peer
 homepage: https://www.skype.com/
 installer:
-  - arch: neutral
+    arch: neutral
     url: https://go.skype.com/windows.desktop.download
     installertype: exe
     arguments: /VERYSILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /NOLAUNCH
