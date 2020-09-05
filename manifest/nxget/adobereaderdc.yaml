@@ -4,7 +4,7 @@ versione: v19.008.20071
 descrizione: Adobe Reader DC è un'applicazione per poter visualizzare e appuntare su file in formato PDF. Adobe è la società che ha sviluppato il PDF, ed ha quindi sviluppato il primo programma in grado di lavorare su questo formato.
 homepage: https://www.adobe.com/
 installer:
-  - arch: neutral
+    arch: neutral
     url: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
     installertype: exe
     arguments: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
