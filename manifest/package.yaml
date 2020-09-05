@@ -5,73 +5,73 @@
 #
 - nome: 7zip
   id: 7zip
-  pkgidx: .p01
+  idx: .p01
   versione: v19.00
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - nome: Adobe Reader DC
   id: adobereaderdc
-  pkgidx: .p02
+  idx: .p02
   versione: v19.008.20071
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/adobereaderdc.yaml
 - nome: Atom
   id: atom
-  pkgidx: .p03
+  idx: .p03
   versione: v1.50.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
 - nome: Dashlane
   id: dashlane
-  pkgidx: .p04
+  idx: .p04
   versione: v6.2033.0.38021
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/dashlane.yaml
 - nome: Edge
   id: edge
-  pkgidx: .p05
+  idx: .p05
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/edge.yaml
 - nome: Expandrive
   id: expandrive
-  pkgidx: .p06
+  idx: .p06
   versione: v7.5.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
 - nome: Google Chrome
   id: chrome
-  pkgidx: .p07
+  idx: .p07
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
 - nome: Lenovo System Update
   id: lenovosystemupdate
-  pkgidx: .p08
+  idx: .p08
   versione: v5.07.0106
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node js
   id: nodejs
-  pkgidx: .p09
+  idx: .p09
   versione: v14.9.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
   id: notepadpp
-  pkgidx: .p10
+  idx: .p10
   versione: v7.8.9
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Skype
   id: skype
-  pkgidx: .p11
+  idx: .p11
   versione: v8.63.0.76
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: WhatsApp
   id: whatsapp
-  pkgidx: .p12
+  idx: .p12
   versione: Latest
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
