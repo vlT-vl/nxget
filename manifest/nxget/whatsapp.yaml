@@ -4,7 +4,7 @@ versione: Latest
 descrizione: WhatsApp (formalmente WhatsApp Messenger) è un'applicazione di messaggistica istantanea, questa è la sua versione desktop per Windows.
 homepage: https://www.whatsapp.com/
 installer:
-  - arch: x64
+    arch: x64
     url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
     installertype: exe
     arguments: --silent
