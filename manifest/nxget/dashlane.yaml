@@ -1,12 +1,11 @@
-# Dashlane Manifest
-Id: Dashlane
-Version: v6.2033.0.38021
-Tags: password
-Description: Dashlane è un gestore di password premium multipiattaforma e un'applicazione di portafoglio digitale disponibile su macOS, Windows, iOS e Android
-Homepage: https://www.dashlane.com/it
-Installers:
-  - Arch: neutral
-    Url: https://d3qm0vl2sdkrc.cloudfront.net/releases/6.2033.0/6.2033.0.38021/release/DashlaneInst.exe
+id: dashlane
+idx: .p04
+versione: v6.2033.0.38021
+descrizione: Dashlane è un gestore di password premium multipiattaforma e un'applicazione di portafoglio digitale disponibile su macOS, Windows, iOS e Android
+homepage: https://www.dashlane.com/it
+installer:
+  - arch: neutral
+    url: https://d3qm0vl2sdkrc.cloudfront.net/releases/6.2033.0/6.2033.0.38021/release/DashlaneInst.exe
+    installertype: exe
+    arguments: /S
     MD5: 923DB1A00FABDAA90578108D3163C9B1
-    InstallerType: exe
-    Arguments: /S
