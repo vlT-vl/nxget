@@ -1,12 +1,11 @@
-# Skype Manifest
-Id: Skype
-Version: v8.63.0.76
-Tags: chat
-Description: Skype è un software proprietario freeware di messaggistica istantanea e VoIP. Esso unisce caratteristiche presenti nei client più comuni (chat, salvataggio delle conversazioni, trasferimento di file) a un sistema di telefonate basato su un network Peer-to-peer
-Homepage: https://www.skype.com/
-Installers:
-  - Arch: neutral
-    Url: https://go.skype.com/windows.desktop.download
+id: skype
+idx: .p11
+versione: v8.63.0.76
+descrizione: Skype è un software proprietario freeware di messaggistica istantanea e VoIP. Esso unisce caratteristiche presenti nei client più comuni (chat, salvataggio delle conversazioni, trasferimento di file) a un sistema di telefonate basato su un network Peer-to-peer
+homepage: https://www.skype.com/
+installer:
+  - arch: neutral
+    url: https://go.skype.com/windows.desktop.download
+    installertype: exe
+    arguments: /VERYSILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /NOLAUNCH
     MD5: BDCC196665B19C7F604CAB12E657EE58
-    InstallerType: exe
-    Arguments: /VERYSILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /NOLAUNCH
