@@ -1,12 +1,12 @@
-# 7zip Manifest
-Id: 7zip
-Version: v19.00
-Tags: zip
-Description: 7-Zip software open source per la creazione e gestione di file compressi supporta diversi  algoritmi di compressione e filtri di cifratura. Il nucleo della compressione dei file .7z usa vari algoritmi, i più comuni sono bzip2, LZMA2 e LZMA
-Homepage: https://www.7-zip.org/
-Installers:
-  - Arch: x64
-    Url: https://www.7-zip.org/a/7z1900-x64.exe
+id: 7zip
+idx: .p01
+versione: v19.00
+tags: zip
+descrizione: 7-Zip software open source per la creazione e gestione di file compressi supporta diversi  algoritmi di compressione e filtri di cifratura. Il nucleo della compressione dei file .7z usa vari algoritmi, i più comuni sono bzip2, LZMA2 e LZMA
+homepage: https://www.7-zip.org/
+installer:
+  - arch: x64
+    url: https://www.7-zip.org/a/7z1900-x64.exe
     MD5: D7B20F933BE6CDAE41EFBE75548EBA5F
-    InstallerType: exe
-    Arguments: /S
+    installertype: exe
+    arguments: /S
