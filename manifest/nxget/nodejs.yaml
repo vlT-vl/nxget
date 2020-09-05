@@ -4,7 +4,7 @@ versione: v14.9.0
 descrizione: Node.js è una runtime di JavaScript Open source multipiattaforma orientato agli eventi per l'esecuzione di codice JavaScript, costruita sul motore JavaScript V8 di Google Chrome. Molti dei suoi moduli base sono scritti in JavaScript, e gli sviluppatori possono scrivere nuovi moduli in JavaScript.
 homepage: https://nodejs.org/it/
 installer:
-  - arch: x64
+    arch: x64
     url: https://nodejs.org/dist/v14.9.0/node-v14.9.0-x64.msi
     installertype: msi
     arguments: /quiet
