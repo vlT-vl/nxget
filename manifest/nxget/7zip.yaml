@@ -8,4 +8,4 @@ installer:
     url: https://www.7-zip.org/a/7z1900-x64.exe
     installertype: exe
     arguments: /S
-    MD5: D7B20F933BE6CDAE41EFBE75548EBA5G
+    MD5: D7B20F933BE6CDAE41EFBE75548EBA5F
