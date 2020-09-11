@@ -18,7 +18,7 @@
 - nome: Atom
   id: atom
   idx: .p03
-  versione: v1.50.0
+  versione: v1.51.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
 - nome: Dashlane
