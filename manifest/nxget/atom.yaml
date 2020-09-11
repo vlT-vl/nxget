@@ -5,7 +5,7 @@ descrizione: Atom è un editor di testo e IDE open source e sviluppato da GitHub
 homepage: https://atom.io/
 installer:
     arch: x64
-    url: https://github.com/atom/atom/releases/download/v1.51.0/AtomSetup-x64.exe
+    url: https://atom.io/download/windows_x64
     installertype: exe
     arguments: --silent
     MD5: C454B5405D21391638E6F88D28FD9096
