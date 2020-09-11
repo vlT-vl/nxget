@@ -5,7 +5,7 @@ descrizione: Adobe Reader DC è un'applicazione per poter visualizzare e appunta
 homepage: https://www.adobe.com/
 installer:
     arch: neutral
-    url: https://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
+    url: http://ardownload.adobe.com/pub/adobe/reader/win/AcrobatDC/1900820071/AcroRdrDC1900820071_it_IT.exe
     installertype: exe
     arguments: /sAll /rs /msi /qn /norestart EULA_ACCEPT=YES
     MD5: F02C210CCF023B7A29D938FBA0BDE0D2
