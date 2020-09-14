@@ -66,7 +66,7 @@
 - nome: Skype
   id: skype
   idx: .p11
-  versione: v8.63.0.76
+  versione: v8.64.0.80
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: WhatsApp
