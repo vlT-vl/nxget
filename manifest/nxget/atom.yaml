@@ -8,4 +8,4 @@ installer:
     url: https://atom.io/download/windows_x64
     installertype: exe
     arguments: --silent
-    MD5: C454B5405D21391638E6F88D28FD9096
+    MD5: BB4F8FE0536AE1BF469C649B6D1C702A
