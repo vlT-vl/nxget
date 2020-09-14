@@ -30,7 +30,7 @@
 - nome: Edge
   id: edge
   idx: .p05
-  versione: Latest
+  versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/edge.yaml
 - nome: Expandrive
@@ -42,7 +42,7 @@
 - nome: Google Chrome
   id: chrome
   idx: .p07
-  versione: Latest
+  versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
 - nome: Lenovo System Update
@@ -66,12 +66,12 @@
 - nome: Skype
   id: skype
   idx: .p11
-  versione: v8.64.0.80
+  versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: WhatsApp
   id: whatsapp
   idx: .p12
-  versione: Latest
+  versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
