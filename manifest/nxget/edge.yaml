@@ -5,7 +5,7 @@ descrizione: La nuova veriosne del Browser di Microsoft, basata su Chromium
 homepage: https://www.microsoft.com/it-it/edge
 installer:
     arch: neutral
-    url: https://go.microsoft.com/fwlink/?linkid=2108834&Channel=Stable&language=it
-    installertype: exe
-    arguments:
-    MD5: 124C0715F2C60DD183739604860C5F2C
+    url: http://dl.delivery.mp.microsoft.com/filestreamingservice/files/63c21fa1-e10e-40ef-a9ac-b51f877c7cfb/MicrosoftEdgeEnterpriseX64.msi
+    installertype: msi
+    arguments: /quiet /norestart
+    MD5: 5BC1659281DE9991B4C01BD37B4A38F4
