@@ -54,7 +54,7 @@
 - nome: Node js
   id: nodejs
   idx: .p09
-  versione: v14.9.0
+  versione: v14.12.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
