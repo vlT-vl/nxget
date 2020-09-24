@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 23/09/2020 ore 14:39
+#  Ultimo Update: 24/09/2020 ore 17:42
 #
 - nome: 7zip
   id: 7zip
@@ -75,9 +75,15 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
+- nome: VLC
+  id: vlc
+  idx: .p13
+  versione: v3.0.11
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vlc.yaml
 - nome: WhatsApp
   id: whatsapp
-  idx: .p13
+  idx: .p14
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
