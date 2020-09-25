@@ -1,0 +1,11 @@
+id: office365
+idx: .p15
+versione: v16.0.13127.20508
+descrizione: Microsoft 365 consente di utilizzare online tutti i software del pacchetto Office alla versione più aggiornata, fra cui sono presenti Outlook, un software di tipo organizzativo per e-mail, calendario e rubrica, il word processor Word, il foglio elettronico Excel, PowerPoint per la creazione di presentazioni, oltre a tutti gli altri software della suite.
+homepage: https://www.office.com/
+installer:
+    arch: x64
+    url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
+    installertype: exe
+    arguments:  
+    MD5: 5F5545D7F543C0562F868D91FFF34A00
