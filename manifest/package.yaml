@@ -72,7 +72,7 @@
 - nome: 1Password
   id: 1password
   idx: .p12
-  versione: v7.6.780.0
+  versione: v7.6.783.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/onepassword.yaml
 - nome: Skype
