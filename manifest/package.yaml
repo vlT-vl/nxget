@@ -68,7 +68,7 @@
   idx: .p11
   versione: v7.8.9
   repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
   id: 1password
   idx: .p12
