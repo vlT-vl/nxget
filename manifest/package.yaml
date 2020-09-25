@@ -63,27 +63,33 @@
   versione: v7.8.9
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
+- nome: Office365
+  id: office365
+  idx: .p11
+  versione: v7.8.9
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: 1Password
   id: 1password
-  idx: .p11
+  idx: .p12
   versione: v7.6.780.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/onepassword.yaml
 - nome: Skype
   id: skype
-  idx: .p12
+  idx: .p13
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: VLC
   id: vlc
-  idx: .p13
+  idx: .p14
   versione: v3.0.11
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vlc.yaml
 - nome: WhatsApp
   id: whatsapp
-  idx: .p14
+  idx: .p15
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
