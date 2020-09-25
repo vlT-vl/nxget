@@ -5,7 +5,7 @@ descrizione: Microsoft 365 consente di utilizzare online tutti i software del pa
 homepage: https://www.office.com/
 installer:
     arch: x64
-    url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
+    url: https://github.com/vlT-vl/nxget/raw/master/repository/websetup/O365-x64.exe
     installertype: exe
     arguments:  
     MD5: 5F5545D7F543C0562F868D91FFF34A00
