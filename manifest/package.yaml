@@ -93,7 +93,7 @@
   idx: .p15
   versione: LTS
   repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/spotify.yaml
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/tightvncfla.yaml
 - nome: VLC
   id: vlc
   idx: .p16
