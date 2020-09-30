@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 30/09/2020 ore 11:08
-#  N° di pacchetti disponibili: 16
+#  Ultimo Update: 30/09/2020 ore 12:1
+#  N° di pacchetti disponibili: 17
 # 
 - nome: 7zip
   id: 7zip
@@ -88,15 +88,21 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/spotify.yaml
+- nome: TightVNC-FLA
+  id: tightvncfla
+  idx: .p15
+  versione: LTS
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/spotify.yaml
 - nome: VLC
   id: vlc
-  idx: .p15
+  idx: .p16
   versione: v3.0.11
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vlc.yaml
 - nome: WhatsApp
   id: whatsapp
-  idx: .p16
+  idx: .p17
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
