@@ -1,0 +1,10 @@
+id: tightvncfla
+idx: .p15
+versione: LTS
+descrizione: TightVNC è un pacchetto software di controllo remoto gratuito Con TightVNC puoi vedere il desktop di una macchina remota e controllarlo con il mouse e la tastiera locali, proprio come faresti seduto davanti a quel computer
+installer:
+    arch: neutral
+    url: https://www.tightvnc.com/download/2.8.27/tightvnc-2.8.27-gpl-setup-64bit.msi
+    installertype: msi
+    arguments: /quiet /norestart VIEWER_ASSOCIATE_VNC_EXTENSION=1 SERVER_REGISTER_AS_SERVICE=1 SERVER_ADD_FIREWALL_EXCEPTION=1 VIEWER_ADD_FIREWALL_EXCEPTION=1 SERVER_ALLOW_SAS=1 SET_USEVNCAUTHENTICATION=1 VALUE_OF_USEVNCAUTHENTICATION=1 SET_PASSWORD=1 VALUE_OF_PASSWORD=TEKass20 SET_USECONTROLAUTHENTICATION=1 VALUE_OF_USECONTROLAUTHENTICATION=1 SET_CONTROLPASSWORD=1 VALUE_OF_CONTROLPASSWORD=TEKass20
+    MD5: 4EC1286E72818AFB80F1BB26040BEC3B
