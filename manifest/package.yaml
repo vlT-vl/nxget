@@ -92,8 +92,8 @@
   id: tightvncfla
   idx: .p15
   versione: LTS
-  repository: FLA
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/FLA/tightvnc.yaml
+  repository: fla
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/fla/tightvnc.yaml
 - nome: VLC
   id: vlc
   idx: .p16
