@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 30/09/2020 ore 14:30
+#  Ultimo Update: 30/09/2020 ore 15:11
 #  N° di pacchetti disponibili: 17
 # 
 - nome: 7zip
@@ -100,12 +100,6 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yam
-- nome:
-  id:
-  idx:
-  versione:
-  repository:
-  manifest:
 - nome: TightVNC
   id: tightvncfla
   idx: .f01
