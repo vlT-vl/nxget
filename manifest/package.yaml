@@ -2,7 +2,8 @@
 # package.yaml
 #  >> Index dei pacchetti nxget
 #  Ultimo Update: 30/09/2020 ore 11:08
-#
+#  N° di pacchetti disponibili: 16
+# 
 - nome: 7zip
   id: 7zip
   idx: .p01
