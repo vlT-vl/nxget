@@ -100,12 +100,12 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yam
-- nome: #######
-  id: #######
-  idx: #######
-  versione: #######
-  repository: #######
-  manifest: #######
+- nome:
+  id:
+  idx:
+  versione:
+  repository:
+  manifest:
 - nome: TightVNC
   id: tightvncfla
   idx: .f01
