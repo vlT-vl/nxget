@@ -88,12 +88,12 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/spotify.yaml
-- nome: TightVNC-FLA
+- nome: TightVNC
   id: tightvncfla
   idx: .p15
   versione: LTS
-  repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/tightvncfla.yaml
+  repository: FLA
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/FLA/tightvnc.yaml
 - nome: VLC
   id: vlc
   idx: .p16
