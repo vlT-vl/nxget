@@ -88,21 +88,27 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/spotify.yaml
-- nome: TightVNC
-  id: tightvncfla
-  idx: .p15
-  versione: LTS
-  repository: fla
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/fla/tightvnc.yaml
 - nome: VLC
   id: vlc
-  idx: .p16
+  idx: .p15
   versione: v3.0.11
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vlc.yaml
 - nome: WhatsApp
   id: whatsapp
-  idx: .p17
+  idx: .p16
   versione: LTS
   repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yam
+- nome: #####
+  id: #####
+  idx: #####
+  versione: ####
+  repository: ####
+  manifest: ####
+- nome: TightVNC
+  id: tightvncfla
+  idx: .f01
+  versione: LTS
+  repository: fla
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/fla/tightvnc.yaml
