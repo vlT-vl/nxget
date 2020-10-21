@@ -37,7 +37,7 @@
 - nome: Expandrive
   id: expandrive
   idx: .p06
-  versione: v7.5.0
+  versione: v7.6.5
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
 - nome: Google Chrome
