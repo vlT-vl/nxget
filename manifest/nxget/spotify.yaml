@@ -1,7 +1,7 @@
 id: spotify
 idx: .p13
 versione: LTS
-descrizione: Spotify Player  - Listening is everything Milioni di brani e podcast
+descrizione: Spotify Player - Listening is everything - Milioni di brani e podcast
 installer:
     arch: neutral
     url: https://download.scdn.co/SpotifyFullSetup.exe
