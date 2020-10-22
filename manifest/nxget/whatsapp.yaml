@@ -1,5 +1,5 @@
 id: whatsapp
-idx: .p16
+idx: .p15
 versione: LTS
 descrizione: WhatsApp (formalmente WhatsApp Messenger) è un'applicazione di messaggistica istantanea, questa è la sua versione desktop per Windows.
 homepage: https://www.whatsapp.com/
@@ -8,4 +8,4 @@ installer:
     url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
     installertype: exe
     arguments: --silent
-    MD5: 46C381F96964084F1F5F0AD952F86018
+    MD5: E2FF3580A28DF38F07757440DFD02460
