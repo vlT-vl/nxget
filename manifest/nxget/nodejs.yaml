@@ -1,5 +1,5 @@
 id: nodejs
-idx: .p09
+idx: .p08
 versione: v15.0.0
 descrizione: Node.js è una runtime di JavaScript Open source multipiattaforma orientato agli eventi per l'esecuzione di codice JavaScript, costruita sul motore JavaScript V8 di Google Chrome. Molti dei suoi moduli base sono scritti in JavaScript, e gli sviluppatori possono scrivere nuovi moduli in JavaScript.
 homepage: https://nodejs.org/it/
