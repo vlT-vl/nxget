@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 21/10/2020 ore 15:09
+#  Ultimo Update: 22/10/2020 ore 10:01
 #  N° di pacchetti disponibili: 17
 # 
 - nome: 7zip
@@ -19,84 +19,78 @@
 - nome: Atom
   id: atom
   idx: .p03
-  versione: v1.51.0
+  versione: v1.52.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
-- nome: Dashlane
-  id: dashlane
-  idx: .p04
-  versione: v6.2033.0.38021
-  repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/dashlane.yaml
 - nome: Edge
   id: edge
-  idx: .p05
+  idx: .p04
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/edge.yaml
 - nome: Expandrive
   id: expandrive
-  idx: .p06
+  idx: .p05
   versione: v7.6.5
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
 - nome: Google Chrome
   id: chrome
-  idx: .p07
+  idx: .p06
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/googlechrome.yaml
 - nome: Lenovo System Update
   id: lenovosystemupdate
-  idx: .p08
+  idx: .p07
   versione: v5.07.0110
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node js
   id: nodejs
-  idx: .p09
+  idx: .p08
   versione: v15.0.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
   id: notepadpp
-  idx: .p10
+  idx: .p09
   versione: v7.8.9
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Office365
   id: office365
-  idx: .p11
+  idx: .p10
   versione: v7.8.9
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
   id: 1password
-  idx: .p12
+  idx: .p11
   versione: v7.6.785
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/onepassword.yaml
 - nome: Skype
   id: skype
-  idx: .p13
+  idx: .p12
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: Spotify
   id: spotify
-  idx: .p14
+  idx: .p13
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/spotify.yaml
 - nome: VLC
   id: vlc
-  idx: .p15
+  idx: .p14
   versione: v3.0.11
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vlc.yaml
 - nome: WhatsApp
   id: whatsapp
-  idx: .p16
+  idx: .p15
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yam
