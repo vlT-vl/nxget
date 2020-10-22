@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 22/10/2020 ore 10:01
+#  Ultimo Update: 22/10/2020 ore 10:05
 #  N° di pacchetti disponibili: 17
 # 
 - nome: 7zip
@@ -46,7 +46,7 @@
   versione: v5.07.0110
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
-- nome: Node js
+- nome: Node.js
   id: nodejs
   idx: .p08
   versione: v15.0.0
