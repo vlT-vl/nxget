@@ -93,7 +93,7 @@
   idx: .p15
   versione: LTS
   repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yam
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
 - nome: --------------------
   id: ---
   idx: ---
