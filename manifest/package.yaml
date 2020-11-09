@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 22/10/2020 ore 10:05
-#  N° di pacchetti disponibili: 17
+#  Ultimo Update: 09/11/2020 ore 09:19
+#  N° di pacchetti disponibili: 16
 # 
 - nome: 7zip
   id: 7zip
@@ -49,19 +49,19 @@
 - nome: Node.js
   id: nodejs
   idx: .p08
-  versione: v15.0.0
+  versione: v15.1.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
   id: notepadpp
   idx: .p09
-  versione: v7.8.9
+  versione: v7.9.1
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Office365
   id: office365
   idx: .p10
-  versione: v7.8.9
+  versione: v2010-b13328.20292
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
