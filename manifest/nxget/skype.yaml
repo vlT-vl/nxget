@@ -8,4 +8,4 @@ installer:
     url: https://go.skype.com/windows.desktop.download
     installertype: exe
     arguments: /VERYSILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /NOLAUNCH
-    MD5: 9DF8C5AA90B6C6C4A2D91714821076D3
+    MD5: 23C29888EF1896D2281CEF67C0C1687A
