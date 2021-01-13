@@ -8,4 +8,4 @@ installer:
     url: https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
     installertype: exe
     arguments: --silent
-    MD5: C751B5FAECFF6236B3915C93FB6DF6FF
+    MD5: 78451938451ACCB54A5254AF94FA1233
