@@ -5,7 +5,7 @@ descrizione: Notepad++ è un editor di testo open source per Windows. In grado d
 homepage: https://notepad-plus-plus.org/
 installer:
     arch: x64
-    url: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.1/npp.7.9.1.Installer.x64.exe
+    url: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.2/npp.7.9.2.Installer.x64.exe
     installertype: exe
     arguments: /S
-    MD5: 49C992A90B16E21B9FDC8056626B327D
+    MD5: F4A750811995C2A4AED1CFBF7B6E34EE
