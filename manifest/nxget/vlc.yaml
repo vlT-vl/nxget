@@ -1,11 +1,11 @@
 id: vlc
 idx: .p14
-versione: v3.0.11
+versione: v3.0.12
 descrizione: VLC è un lettore e un framework multimediale multi-piattaforma gratuito e open-source che riproduce moltissimi file multimediali così come DVD, CD audio, VCD e diversi protocolli di trasmissione
 homepage: https://www.videolan.org/
 installer:
     arch: x64
-    url: https://mirror.init7.net/videolan/vlc/3.0.11/win32/vlc-3.0.11-win32.exe
+    url: https://get.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.exe
     installertype: exe
     arguments: /S
-    MD5: 41DDF2773B5FF947834C003B1DEB643A
+    MD5: C3DDDB7A4ED6D6EE935847330D8889CD
