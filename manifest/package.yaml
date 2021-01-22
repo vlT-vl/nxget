@@ -55,7 +55,7 @@
 - nome: Office365
   id: office365
   idx: .p09
-  versione: v2010-b13328.20292
+  versione: v2012-b13530.20376
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
