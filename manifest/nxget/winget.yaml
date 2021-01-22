@@ -1,0 +1,11 @@
+id: winget
+idx: .p16
+versione: v0.2.3162
+descrizione: Windows Package Manager Preview
+homepage: https://www.office.com/
+installer:
+    arch: x64
+    url: https://github.com/vlT-vl/nxget/raw/master/repository/websetup/WindowsPackageManagerv0.2.3162Preview.appxbundle
+    installertype: appxbundle
+    arguments:  
+    MD5: 076E59CD48D45577127E6D37EBE259EF
