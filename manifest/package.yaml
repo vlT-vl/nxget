@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 22/01/2021 ore 11:44
-#  N° di pacchetti disponibili: 14
+#  Ultimo Update: 22/01/2021 ore 12:08
+#  N° di pacchetti disponibili: 16
 # 
 - nome: 7zip
   id: 7zip
@@ -88,3 +88,15 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
+- nome: Windows Terminal
+  id: windowsterminal
+  idx: .p15
+  versione: v1.4.3243.0
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/windowsterminal.yaml
+- nome: winget
+  id: winget
+  idx: .p16
+  versione: v0.2.3162
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/winget.yaml
