@@ -8,4 +8,4 @@ installer:
     url: https://dl.google.com/edgedl/chrome/install/GoogleChromeStandaloneEnterprise64.msi
     installertype: msi
     arguments: /quiet
-    MD5: FA63D473CC249844140988C0B1EC1B87
+    MD5: B04AD5DA3C07ED1D41C9CB653AFFB163
