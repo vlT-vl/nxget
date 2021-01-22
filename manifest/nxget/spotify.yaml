@@ -1,5 +1,5 @@
 id: spotify
-idx: .p13
+idx: .p12
 versione: LTS
 descrizione: Spotify Player - Listening is everything - Milioni di brani e podcast
 installer:
@@ -7,4 +7,4 @@ installer:
     url: https://download.scdn.co/SpotifyFullSetup.exe
     installertype: exe
     arguments: /Silent
-    MD5: 97F317A322B1512C81FCAA9E35A24035
+    MD5: AA6547F12D8956A2850DCCEBC43A045B
