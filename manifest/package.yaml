@@ -94,15 +94,3 @@
   versione: LTS
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/whatsapp.yaml
-- nome: --------------------
-  id: ---
-  idx: ---
-  versione: --------
-  repository: ------
-  manifest: ------
-- nome: TightVNC
-  id: tightvncfla
-  idx: .f01
-  versione: LTS
-  repository: fla
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/fla/tightvnc.yaml
