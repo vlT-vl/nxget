@@ -1,0 +1,11 @@
+id: vcredist19x64
+idx: .p18
+versione: 2015-2019x64
+descrizione: Visual C++ 2015-2019 Redistributable
+homepage: https://support.microsoft.com/it-it/topic/download-delle-pi%C3%B9-recenti-versioni-di-visual-c-supportate-2647da03-1eea-4433-9aff-95f26a218cc0
+installer:
+    arch: x64
+    url: https://aka.ms/vs/16/release/vc_redist.x64.exe
+    installertype: exe
+    arguments: /Q
+    MD5: 27E0D7F6C72ADF9430418091D1DE6FF0
