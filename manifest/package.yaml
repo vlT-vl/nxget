@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 22/01/2021 ore 12:10
+#  Ultimo Update: 25/01/2021 ore 12:00
 #  N° di pacchetti disponibili: 16
 # 
 - nome: 7zip
@@ -100,3 +100,15 @@
   versione: v0.2.3162
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/winget.yaml
+- nome: Visual C++ 2015-2019 Redistributable x86
+  id: vcredist19x86
+  idx: .p17
+  versione: v2015-2019x86
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist19x86.yaml
+- nome: Visual C++ 2015-2019 Redistributable x64
+  id: vcredist19x64
+  idx: .p18
+  versione: v2015-2019x64
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist19x64.yaml
