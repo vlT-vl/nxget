@@ -124,7 +124,7 @@
   versione: v2013x64
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist13x64.yaml
-- nome: Team Viewer Host
+- nome: TeamViewer HOST
   id: twhost
   idx: .p21
   versione: v15.13.6.0
