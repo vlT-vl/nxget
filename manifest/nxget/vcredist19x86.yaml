@@ -1,6 +1,6 @@
 id: vcredist19x86
 idx: .p17
-versione: 2015-2019x86
+versione: v2015-2019x86
 descrizione: Visual C++ 2015-2019 Redistributable
 homepage: https://support.microsoft.com/it-it/topic/download-delle-pi%C3%B9-recenti-versioni-di-visual-c-supportate-2647da03-1eea-4433-9aff-95f26a218cc0
 installer:
