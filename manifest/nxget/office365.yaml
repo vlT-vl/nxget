@@ -8,4 +8,4 @@ installer:
     url: https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365BusinessRetail&platform=X64&language=it-it&TaxRegion=db&correlationId=43a3030c-1d3c-447a-b342-90be6dfa9d6e&token=0bf5e934-9e49-4427-8b9a-9b2bf79bc959&version=O16GA&source=O15OLSO365&Br=2
     installertype: exe
     arguments:  
-    MD5: 5F5545D7F543C0562F868D91FFF34A00
+    MD5: D5F515447C84F0DA760F9124A8C82633
