@@ -1,0 +1,11 @@
+id: twhost
+idx: .p21
+versione: v15.13.6.0
+descrizione: TeamViewer Host consente di accedere a computer remoti 24 ore su 24 e 7 giorni su 7, ed è quindi perfetto per necessità quali il monitoraggio remoto, la manutenzione dei server o l’accesso ad un PC o Mac non presidiato da un operatore, sia a casa che al lavoro.
+homepage: https://www.teamviewer.com/it/download/windows/
+installer:
+    arch: neutral
+    url: https://download.teamviewer.com/download/TeamViewer_Host_Setup.exe
+    installertype: exe
+    arguments: /S
+    MD5: 798755549C8D5DF17B218E8D38292359
