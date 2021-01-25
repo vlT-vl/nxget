@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 25/01/2021 ore 12:50
-#  N° di pacchetti disponibili: 20
+#  Ultimo Update: 25/01/2021 ore 13:01
+#  N° di pacchetti disponibili: 21
 # 
 - nome: 7zip
   id: 7zip
@@ -124,3 +124,9 @@
   versione: v2013x64
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist13x64.yaml
+- nome: Team Viewer Host
+  id: twhost
+  idx: .p21
+  versione: v15.13.6.0
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
