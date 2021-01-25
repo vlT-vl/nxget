@@ -1,11 +1,11 @@
 id: winget
 idx: .p16
-versione: v0.2.3162
+versione: v0.2.3162-preview
 descrizione: Windows Package Manager Preview
 homepage: https://github.com/microsoft/winget-cli/releases
 installer:
     arch: x64
-    url: https://github.com/vlT-vl/nxget/raw/master/repository/WindowsAppPackages/WindowsPackageManagerv0.2.3162Preview.appxbundle
+    url: https://github.com/microsoft/winget-cli/releases/download/v0.2.3162-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundle
     installertype: appxbundle
     arguments:  
     MD5: 076E59CD48D45577127E6D37EBE259EF
