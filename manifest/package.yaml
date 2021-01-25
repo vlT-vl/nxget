@@ -94,10 +94,10 @@
   versione: v1.4.3243.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/windowsterminal.yaml
-- nome: winget
+- nome: Windows Package Manager
   id: winget
   idx: .p16
-  versione: v0.2.3162
+  versione: v0.2.3162-preview
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/winget.yaml
 - nome: Visual C++ 2015-2019 Redistributable x86
