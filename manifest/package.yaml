@@ -120,7 +120,7 @@
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist13x86.yaml
 - nome: Visual C++ 2013 Redistributable x64
   id: vcredist13x64
-  idx: .p18
+  idx: .p20
   versione: v2013x64
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist13x64.yaml
