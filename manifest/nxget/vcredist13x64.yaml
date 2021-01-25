@@ -1,0 +1,11 @@
+id: vcredist13x64
+idx: .p20
+versione: v2013x64
+descrizione: Visual C++ 2013 Redistributable
+homepage: https://support.microsoft.com/it-it/topic/update-for-visual-c-2013-redistributable-package-d8ccd6a5-4e26-c290-517b-8da6cfdf4f10
+installer:
+    arch: x64
+    url: https://aka.ms/highdpimfc2013x64ita
+    installertype: exe
+    arguments: /Q
+    MD5: 9EB3BEA42EFC277907EE608E005D4E82
