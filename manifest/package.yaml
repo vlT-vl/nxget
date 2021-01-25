@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 25/01/2021 ore 12:21
-#  N° di pacchetti disponibili: 18
+#  Ultimo Update: 25/01/2021 ore 12:40
+#  N° di pacchetti disponibili: 20
 # 
 - nome: 7zip
   id: 7zip
@@ -112,3 +112,15 @@
   versione: v2015-2019x64
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist19x64.yaml
+- nome: Visual C++ 2013 Redistributable x86
+  id: vcredist13x86
+  idx: .p19
+  versione: v2013x86
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist13x86.yaml
+- nome: Visual C++ 2013 Redistributable x64
+  id: vcredist13x64
+  idx: .p18
+  versione: v2013x64
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/vcredist13x64.yaml
