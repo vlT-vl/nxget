@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 28/01/2021 ore 17:20
-#  N° di pacchetti disponibili: 21
+#  Ultimo Update: 29/01/2021 ore 18:10
+#  N° di pacchetti disponibili: 22
 # 
 - nome: 7zip
   id: 7zip
@@ -130,3 +130,9 @@
   versione: v15.13.6.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
+- nome: AirExplorer
+  id: airexplorer
+  idx: .p22
+  versione: v4.1.1
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/airexplorer.yaml
