@@ -1,0 +1,11 @@
+id: airexplorer
+idx: .p22
+versione: v4.1.1
+descrizione: Utility per la sicronizzazione tra più Cloud o tra cartelle e file.
+homepage: https://www.airexplorer.net/en/download/
+installer:
+    arch: neutral
+    url: https://www.airexplorer.net/downloads/AirExplorer-Installer.exe
+    installertype: exe
+    arguments: /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-
+    MD5: AB8CDB14CFFA6D300A40E33B5F200597
