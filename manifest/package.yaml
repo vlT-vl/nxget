@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 03/02/2021 ore 17:07
+#  Ultimo Update: 03/02/2021 ore 17:14
 #  N° di pacchetti disponibili: 21
 # 
 - nome: 7zip
@@ -41,9 +41,9 @@
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node.js
-  id: nodejs
+  id: node
   idx: .p07
-  versione: v15.7.0
+  versione: v15.8.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
