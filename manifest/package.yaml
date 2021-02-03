@@ -1,8 +1,8 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 01/02/2021 ore 10:11
-#  N° di pacchetti disponibili: 22
+#  Ultimo Update: 03/02/2021 ore 17:07
+#  N° di pacchetti disponibili: 21
 # 
 - nome: 7zip
   id: 7zip
@@ -37,7 +37,7 @@
 - nome: Lenovo System Update
   id: lenovosystemupdate
   idx: .p06
-  versione: v5.07.0110
+  versione: v5.07.0113
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node.js
@@ -130,9 +130,3 @@
   versione: v15.13.6.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
-- nome: AirExplorer
-  id: airexplorer
-  idx: .p22
-  versione: v4.1.1
-  repository: nxget
-  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/airexplorer.yaml
