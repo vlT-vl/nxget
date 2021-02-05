@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 05/02/2021 ore 10:15
+#  Ultimo Update: 05/02/2021 ore 10:18
 #  N° di pacchetti disponibili: 21
 # 
 - nome: 7zip
@@ -127,6 +127,6 @@
 - nome: TeamViewer HOST
   id: twhost
   idx: .p21
-  versione: v15.13.6.0
+  versione: v15.14.5.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
