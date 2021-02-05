@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 04/02/2021 ore 10:15
+#  Ultimo Update: 05/02/2021 ore 10:15
 #  N° di pacchetti disponibili: 21
 # 
 - nome: 7zip
@@ -97,7 +97,7 @@
 - nome: Windows Package Manager
   id: winget
   idx: .p16
-  versione: v0.2.3162-preview
+  versione: v0.2.10191-preview
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/winget.yaml
 - nome: Visual C++ 2015-2019 Redistributable x86
