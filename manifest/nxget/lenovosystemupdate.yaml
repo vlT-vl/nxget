@@ -1,11 +1,11 @@
 id: lenovosystemupdate
 idx: .p06
-versione: v5.07.0113
+versione: v5.07.0117
 descrizione: Lenovo System Update, uno strumento di Windows che ti consente di cercare firmware, driver e software Lenovo aggiornati per la tua macchina Lenovo.
 homepage: https://support.lenovo.com/it/it/downloads/ds012808
 installer:
     arch: neutral
-    url: https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0113.exe
+    url: https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.0117.exe
     installertype: exe
     arguments: /VERYSILENT
-    MD5: C893D1ADF0CD54F79EB8F41670D9D88B
+    MD5: 379774EA19384DB99A120AFCF598FD32
