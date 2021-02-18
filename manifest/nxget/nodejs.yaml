@@ -1,11 +1,11 @@
 id: node
 idx: .p07
-versione: v15.8.0
+versione: v15.9.0
 descrizione: Node.js è una runtime di JavaScript Open source multipiattaforma orientato agli eventi per l'esecuzione di codice JavaScript, costruita sul motore JavaScript V8 di Google Chrome. Molti dei suoi moduli base sono scritti in JavaScript, e gli sviluppatori possono scrivere nuovi moduli in JavaScript.
 homepage: https://nodejs.org/it/
 installer:
     arch: x64
-    url: https://nodejs.org/dist/v15.8.0/node-v15.8.0-x64.msi
+    url: https://nodejs.org/dist/v15.9.0/node-v15.9.0-x64.msi
     installertype: msi
     arguments: /quiet
-    MD5: 64DD36874F0B11835F4F03A517271C53
+    MD5: E3CDBBBDAC7E6D93E2DD6DD5692741FD
