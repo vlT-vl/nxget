@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 16/02/2021 ore 19:42
+#  Ultimo Update: 18/02/2021 ore 13:41
 #  N° di pacchetti disponibili: 21
 - nome: 7zip
   id: 7zip
@@ -42,7 +42,7 @@
 - nome: Node.js
   id: node
   idx: .p07
-  versione: v15.8.0
+  versione: v15.9.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
