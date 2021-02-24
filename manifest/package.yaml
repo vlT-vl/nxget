@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 23/02/2021 ore 17:58
+#  Ultimo Update: 24/02/2021 ore 14:49
 #  N° di pacchetti disponibili: 21
 - nome: 7zip
   id: 7zip
@@ -24,7 +24,7 @@
 - nome: Expandrive
   id: expandrive
   idx: .p04
-  versione: v7.7.5
+  versione: v7.7.6
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
 - nome: Google Chrome
