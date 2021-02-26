@@ -1,0 +1,11 @@
+id: nasm
+idx: .p23
+versione: v2.15.05
+descrizione: 7-Zip software open source per la creazione e gestione di file compressi supporta diversi  algoritmi di compressione e filtri di cifratura. Il nucleo della compressione dei file .7z usa vari algoritmi, i più comuni sono bzip2, LZMA2 e LZMA
+homepage: https://www.nasm.us/
+installer:
+    arch: x64
+    url: https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/win64/nasm-2.15.05-installer-x64.exe
+    installertype: exe
+    arguments: /S
+    MD5: E50B0C2DFC34E5D9D3C38383366FE5A0
