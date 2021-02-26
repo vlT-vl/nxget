@@ -129,3 +129,9 @@
   versione: v15.15.5.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
+- nome: Python
+  id: python
+  idx: .p22
+  versione: v2.17.18
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/python.yaml
