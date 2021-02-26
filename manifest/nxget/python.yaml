@@ -2,6 +2,7 @@ id: python
 idx: .p22
 versione: v2.17.18
 descrizione: Python è un linguaggio di programmazione che ti consente di lavorare più rapidamente e integrare i tuoi sistemi in modo più efficace.
+homepage: https://www.python.org/
 installer:
     arch: x64
     url: https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi
