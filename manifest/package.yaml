@@ -135,3 +135,9 @@
   versione: v2.17.18
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/python.yaml
+- nome: Netwide Assembler (NASM)
+  id: nasm
+  idx: .p23
+  versione: v2.15.05
+  repository: nxget
+  manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nasm.yaml
