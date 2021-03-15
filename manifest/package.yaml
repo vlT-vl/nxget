@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 05/03/2021 ore 10:58
+#  Ultimo Update: 15/03/2021 ore 11:45
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
@@ -18,7 +18,7 @@
 - nome: Atom
   id: atom
   idx: .p03
-  versione: v1.54.0
+  versione: v1.55.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
 - nome: Expandrive
@@ -36,7 +36,7 @@
 - nome: Lenovo System Update
   id: lenovosystemupdate
   idx: .p06
-  versione: v5.07.0117
+  versione: v5.07.0118
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/lenovosystemupdate.yaml
 - nome: Node.js
@@ -48,13 +48,13 @@
 - nome: Notepad++
   id: notepadpp
   idx: .p08
-  versione: v7.9.3
+  versione: v7.9.4
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Office365
   id: office365
   idx: .p09
-  versione: vv16.0.13801.20266
+  versione: v16.0.13801.20294
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
