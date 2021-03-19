@@ -1,12 +1,12 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 15/03/2021 ore 11:45
+#  Ultimo Update: 19/03/2021 ore 12:11
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
   idx: .p01
-  versione: v19.00
+  versione: v21.01
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - nome: Adobe Reader DC
