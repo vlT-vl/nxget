@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 26/03/2021 ore 19:17
+#  Ultimo Update: 30/03/2021 ore 16:16
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
@@ -48,7 +48,7 @@
 - nome: Notepad++
   id: notepadpp
   idx: .p08
-  versione: v7.9.4
+  versione: v7.9.5
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Office365
@@ -60,7 +60,7 @@
 - nome: 1Password
   id: 1password
   idx: .p10
-  versione: v7.6.791
+  versione: v7.6.793
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/onepassword.yaml
 - nome: Skype
