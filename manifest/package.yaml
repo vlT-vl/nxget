@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 30/03/2021 ore 16:16
+#  Ultimo Update: 09/04/2021 ore 14:13
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
@@ -42,7 +42,7 @@
 - nome: Node.js
   id: node
   idx: .p07
-  versione: v15.12.0
+  versione: v15.14.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
@@ -54,7 +54,7 @@
 - nome: Office365
   id: office365
   idx: .p09
-  versione: v16.0.13801.20360
+  versione: v16.0.13901.20336
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
@@ -126,7 +126,7 @@
 - nome: TeamViewer HOST
   id: twhost
   idx: .p21
-  versione: v15.15.5.0
+  versione: v15.16.8.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
 - nome: Python
