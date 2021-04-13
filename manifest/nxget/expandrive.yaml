@@ -8,4 +8,4 @@ installer:
     url: https://packages.expandrive.com/msi/7.7.8/ExpanDriveInstaller64.msi
     installertype: msi
     arguments: /quiet /norestart
-    MD5: 456B4798EB3D3F12B00737372E2735D9
+    MD5: 55C309C4C48C73EEF2D555B2C4CCCA48
