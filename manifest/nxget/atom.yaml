@@ -1,6 +1,6 @@
 id: atom
 idx: .p03
-versione: v1.55.0
+versione: v1.56.0
 descrizione: Atom è un editor di testo e IDE open source e sviluppato da GitHub, rilasciato nel 2014. Esso è basato su Chromium ed è scritto in CoffeeScript, il che gli permette di essere eseguito su qualsiasi piattaforma supportata da Chromium
 homepage: https://atom.io/
 installer:
@@ -8,4 +8,4 @@ installer:
     url: https://atom.io/download/windows_x64
     installertype: exe
     arguments: --silent
-    MD5: 3D84BD6721F29BFA787BF35B70B96E10
+    MD5: 59154095DCEEE7BF537282C5436B54AB
