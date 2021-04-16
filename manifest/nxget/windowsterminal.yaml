@@ -1,6 +1,6 @@
 id: windowsterminal
 idx: .p15
-versione: v1.7.572.0
+versione: v1.7.1033.0
 descrizione: Terminale Windows é un’applicazione terminale modema, veloce, efficiente, utile e produttiva per gli utenti che utilizzano shell e strumenti da riga di comando come il prompt dei comandi, PowerShell e WSL.
 homepage: https://github.com/microsoft/terminal/releases
 installer:
