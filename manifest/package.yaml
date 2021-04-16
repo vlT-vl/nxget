@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 15/04/2021 ore 12:55
+#  Ultimo Update: 16/04/2021 ore 11:56
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
@@ -90,7 +90,7 @@
 - nome: Windows Terminal
   id: windowsterminal
   idx: .p15
-  versione: v1.6.10571.0
+  versione: v1.7.572.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/windowsterminal.yaml
 - nome: Windows Package Manager
