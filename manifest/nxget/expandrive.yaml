@@ -1,11 +1,11 @@
 id: expandrive
 idx: .p04
-versione: v7.7.8
+versione: v7.7.9
 descrizione: ExpanDrive è un client DFS per Mac OS X, Microsoft Windows e Linux che facilita la mappatura del volume locale su molti diversi tipi di cloud storage. Quando un cloud è montato con ExpanDrive qualsiasi programma può leggere, scrivere e gestire file remoti (ovvero file che esistono solo sul cloud) come se fossero archiviati localmente.
 homepage: https://www.expandrive.com/
 installer:
     arch: x64
-    url: https://packages.expandrive.com/msi/7.7.8/ExpanDriveInstaller64.msi
+    url: https://packages.expandrive.com/msi/7.7.9/ExpanDriveInstaller64.msi
     installertype: msi
     arguments: /quiet /norestart
-    MD5: 55C309C4C48C73EEF2D555B2C4CCCA48
+    MD5: EEDC7319EC64D8BA0616C299187D9B0E
