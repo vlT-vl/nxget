@@ -1,12 +1,12 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 21/04/2021 ore 11:52
+#  Ultimo Update: 19/05/2021 ore 11.16
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
   idx: .p01
-  versione: v21.01
+  versione: v21.02
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/7zip.yaml
 - nome: Adobe Reader DC
@@ -18,13 +18,13 @@
 - nome: Atom
   id: atom
   idx: .p03
-  versione: v1.56.0
+  versione: v1.57.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/atom.yaml
 - nome: Expandrive
   id: expandrive
   idx: .p04
-  versione: v7.7.8
+  versione: v7.7.9
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/expandrive.yaml
 - nome: Google Chrome
@@ -42,7 +42,7 @@
 - nome: Node.js
   id: node
   idx: .p07
-  versione: v16.0.0
+  versione: v16.1.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
@@ -54,19 +54,19 @@
 - nome: Office365
   id: office365
   idx: .p09
-  versione: v16.0.13901.20336
+  versione: v16.0.13929.20372
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: 1Password
   id: 1password
   idx: .p10
-  versione: v7.6.793
+  versione: v7.6.801
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/onepassword.yaml
 - nome: Skype
   id: skype
   idx: .p11
-  versione: v8.68.0.96
+  versione: v8.72.0.82
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/skype.yaml
 - nome: Spotify
@@ -90,13 +90,13 @@
 - nome: Windows Terminal
   id: windowsterminal
   idx: .p15
-  versione: v1.7.1033.0
+  versione: v1.7.1091.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/windowsterminal.yaml
 - nome: Windows Package Manager
   id: winget
   idx: .p16
-  versione: v0.2.10191-preview
+  versione: v0.3.11201-preview
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/winget.yaml
 - nome: Visual C++ 2015-2019 Redistributable x86
@@ -126,7 +126,7 @@
 - nome: TeamViewer HOST
   id: twhost
   idx: .p21
-  versione: v15.16.8.0
+  versione: v15.17.7.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/teamviewerhost.yaml
 - nome: Python
