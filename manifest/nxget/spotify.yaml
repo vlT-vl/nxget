@@ -7,4 +7,4 @@ installer:
     url: https://download.scdn.co/SpotifyFullSetup.exe
     installertype: exe
     arguments: /Silent
-    MD5: A1B86158E8FF2B4110F373466D4282E0
+    MD5: 05F971A016596E3B900AB36D6C24EBBE
