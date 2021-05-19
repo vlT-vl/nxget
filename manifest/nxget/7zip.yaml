@@ -1,6 +1,6 @@
 id: 7zip
 idx: .p01
-versione: v21.01
+versione: v21.02
 descrizione: 7-Zip software open source per la creazione e gestione di file compressi supporta diversi  algoritmi di compressione e filtri di cifratura. Il nucleo della compressione dei file .7z usa vari algoritmi, i più comuni sono bzip2, LZMA2 e LZMA
 homepage: https://www.7-zip.org/
 installer:
