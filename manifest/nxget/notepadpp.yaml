@@ -1,11 +1,11 @@
 id: notepadpp
 idx: .p08
-versione: v7.9.5
+versione: v8.0
 descrizione: Notepad++ è un editor di testo open source per Windows. In grado di gestire moltissimi formati di testo ad esempio .js .html .php .json .css eccettera
 homepage: https://notepad-plus-plus.org/
 installer:
     arch: x64
-    url: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.5/npp.7.9.5.Installer.x64.exe
+    url: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8/npp.8.0.Installer.x64.exe
     installertype: exe
     arguments: /S
-    MD5: 0038E9C3D7B208B2F56A1B3B714CCA86
+    MD5: 6CF3F43A109FB82EA740DC98C54BE109
