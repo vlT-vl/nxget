@@ -1,6 +1,6 @@
 id: skype
 idx: .p11
-versione: v8.72.0.94
+versione: v8.73.0.124
 descrizione: Skype è un software proprietario freeware di messaggistica istantanea e VoIP. Esso unisce caratteristiche presenti nei client più comuni (chat, salvataggio delle conversazioni, trasferimento di file) a un sistema di telefonate basato su un network Peer-to-peer
 homepage: https://www.skype.com/
 installer:
@@ -8,4 +8,4 @@ installer:
     url: https://go.skype.com/windows.desktop.download
     installertype: exe
     arguments: /VERYSILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL /NORESTART /NOLAUNCH
-    MD5: 92428D99D27E32EE7B049266ADCA3F37
+    MD5: 1BDF5BEE20F9455D216BD41F9BC32C8B
