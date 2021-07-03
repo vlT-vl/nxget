@@ -8,4 +8,4 @@ installer:
     url: https://aka.ms/vs/16/release/vc_redist.x86.exe
     installertype: exe
     arguments: /Q
-    MD5: EC00A28970A8EBD1C2963DF8C3F54AD3
+    MD5: CA778A97F31D6AB131F1E0BB58A466FB
