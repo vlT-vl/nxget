@@ -7,5 +7,5 @@ installer:
     arch: neutral
     url: https://vault.bitwarden.com/download/?app=desktop&platform=windows
     installertype: exe
-    arguments:
+    arguments: /allusers /S
     MD5: 017D6988C2790CA7592BA9E2796CBB48
