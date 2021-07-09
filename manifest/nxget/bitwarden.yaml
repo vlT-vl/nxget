@@ -1,6 +1,6 @@
 id: bitwarden
 idx: .p10
-versione: v1.27.0
+versione: v1.27.1
 descrizione: Bitwarden - Gestore di password open-source con crittografia a AES256 e Tutte le funzinalità premium
 homepage: https://bitwarden.com/
 installer:
@@ -8,4 +8,4 @@ installer:
     url: https://vault.bitwarden.com/download/?app=desktop&platform=windows
     installertype: exe
     arguments: /allusers /S
-    MD5: 017D6988C2790CA7592BA9E2796CBB48
+    MD5: 98FB318B22F1C68E27CA15D6A614262A
