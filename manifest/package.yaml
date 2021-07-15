@@ -1,7 +1,7 @@
 ---
 # package.yaml
 #  >> Index dei pacchetti nxget
-#  Ultimo Update: 09/07/2021 ore 15:41
+#  Ultimo Update: 15/07/2021 ore 16:06
 #  N° di pacchetti disponibili: 23
 - nome: 7zip
   id: 7zip
@@ -42,19 +42,19 @@
 - nome: Node.js
   id: node
   idx: .p07
-  versione: v16.4.1
+  versione: v16.5.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/nodejs.yaml
 - nome: Notepad++
   id: notepadpp
   idx: .p08
-  versione: v8.1
+  versione: v8.1.1
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/notepadpp.yaml
 - nome: Office365
   id: office365
   idx: .p09
-  versione: v16.0.14131.20278
+  versione: v16.0.14131.20320
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/office365.yaml
 - nome: BitWarden
