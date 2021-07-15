@@ -90,7 +90,7 @@
 - nome: Windows Terminal
   id: windowsterminal
   idx: .p15
-  versione: v1.8.1444.0
+  versione: v1.9.1942.0
   repository: nxget
   manifest: https://raw.githubusercontent.com/vlT-vl/nxget/master/manifest/nxget/windowsterminal.yaml
 - nome: Windows Package Manager
