@@ -1,11 +1,11 @@
 id: windowsterminal
 idx: .p15
-versione: v1.8.1444.0
+versione: v1.9.1942.0
 descrizione: Terminale Windows é un’applicazione terminale modema, veloce, efficiente, utile e produttiva per gli utenti che utilizzano shell e strumenti da riga di comando come il prompt dei comandi, PowerShell e WSL.
 homepage: https://github.com/microsoft/terminal/releases
 installer:
     arch: x64
-    url: https://github.com/microsoft/terminal/releases/download/v1.8.1444.0/Microsoft.WindowsTerminal_1.8.1444.0_8wekyb3d8bbwe.msixbundle
+    url: https://github.com/microsoft/terminal/releases/download/v1.9.1942.0/Microsoft.WindowsTerminal_1.9.1942.0_8wekyb3d8bbwe.msixbundle
     installertype: msixbundle
     arguments:  
-    MD5: FE1A92C612BA9B7EC60E3F7E96BBA37E
+    MD5: F2F0A5D05B42EF51267CEC68BE17F4DB
