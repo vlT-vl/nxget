@@ -1,6 +1,6 @@
 id: office365
 idx: .p09
-versione: v16.0.14131.20278
+versione: v16.0.14131.20320
 descrizione: Microsoft 365 consente di utilizzare online tutti i software del pacchetto Office alla versione più aggiornata, fra cui sono presenti Outlook, un software di tipo organizzativo per e-mail, calendario e rubrica, il word processor Word, il foglio elettronico Excel, PowerPoint per la creazione di presentazioni, oltre a tutti gli altri software della suite.
 homepage: https://www.office.com/
 installer:
@@ -8,4 +8,4 @@ installer:
     url: https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365BusinessRetail&platform=X64&language=it-it&TaxRegion=db&correlationId=43a3030c-1d3c-447a-b342-90be6dfa9d6e&token=0bf5e934-9e49-4427-8b9a-9b2bf79bc959&version=O16GA&source=O15OLSO365&Br=2
     installertype: exe
     arguments:  
-    MD5: B1690C70D4776D4DDF8FE76510BCAE74
+    MD5: 2C9083CE4CB518583CAE6F491B28C0D0
